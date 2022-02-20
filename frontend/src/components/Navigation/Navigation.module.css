@@ -1,0 +1,11 @@
+.link {
+  padding: 12px;
+  margin-left: 20px;
+  text-decoration: none;
+  color: black;
+  text-transform: uppercase;
+}
+
+.activeLink {
+  color: #ffffff;
+}

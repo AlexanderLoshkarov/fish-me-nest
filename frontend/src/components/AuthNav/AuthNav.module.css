@@ -1,0 +1,16 @@
+.navList {
+  display: flex;
+  justify-content: end;
+  list-style: none;
+}
+.navListItem {
+  padding: 12px;
+}
+.navLink {
+  color: black;
+  text-decoration: none;
+  text-transform: uppercase;
+}
+.navLinkActive {
+  color: #ffffff;
+}

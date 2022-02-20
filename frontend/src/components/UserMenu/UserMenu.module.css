@@ -1,0 +1,25 @@
+.div {
+  display: flex;
+  align-items: center;
+}
+.span {
+  color: black;
+  font-size: 16px;
+  font-weight: bold;
+  margin-right: 10px;
+}
+.button {
+  padding: 6px 16px;
+  border: none;
+  min-width: 64px;
+  font-family: "Roboto", "Helvetica", "Arial", sans-serif;
+  line-height: 1.75;
+  border-radius: 4px;
+  text-transform: uppercase;
+  background-color: white;
+  color: #3f51b5;
+  font-weight: 700;
+}
+.button:hover {
+  background-color: #f0ffff;
+}
