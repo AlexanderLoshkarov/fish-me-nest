@@ -2,6 +2,8 @@ npm run start:dev
 npx nestjs-command create:user
 npx nestjs-command create:products
 
+
+
 HINTS:
  * To create a controller using the CLI, simply execute 
     $ nest g controller cats command.
