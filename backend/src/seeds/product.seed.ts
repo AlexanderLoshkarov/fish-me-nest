@@ -17,26 +17,18 @@ export class ProductSeedCommand {
       {
         name: 'Riapushka',
         description: '4ishenaya',
-        unit: '1 KG',
-        price: 10.0,
       },
       {
         name: 'Salmon',
         description: 'Premium File',
-        unit: '1 KG',
-        price: 15.5,
       },
       {
         name: 'Salmon',
         description: 'Zhivotiki',
-        unit: '0.5 KG',
-        price: 3.25,
       },
       {
         name: 'Salmon',
         description: 'Scottish',
-        unit: '1 KG',
-        price: 9.0,
       },
     ];
 

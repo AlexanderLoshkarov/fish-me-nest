@@ -17,8 +17,6 @@ export class ProductService {
     const reqBody = {
       name: product.name,
       description: product.description,
-      price: product.price,
-      unit: product.unit,
     };
     const newProduct = new this.productModel(reqBody);
     return newProduct.save();

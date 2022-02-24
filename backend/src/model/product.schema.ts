@@ -8,10 +8,6 @@ export class Product {
   name: string;
   @Prop({ required: true })
   description: string;
-  @Prop({ required: true })
-  unit: string;
-  @Prop({ required: true })
-  price: number;
   @Prop({ default: Date.now() })
   createdDate: Date;
 }

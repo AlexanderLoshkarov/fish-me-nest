@@ -1,6 +1,7 @@
 npm run start:dev
 npx nestjs-command create:user
 npx nestjs-command create:products
+npx nestjs-command create:delivery
 
 
 
